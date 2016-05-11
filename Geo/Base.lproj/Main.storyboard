@@ -82,7 +82,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="c41-43-jko" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="FKW-xm-e5U"/>
-                            <constraint firstItem="vET-GT-T8t" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="OnS-4X-Q4V"/>
+                            <constraint firstItem="vET-GT-T8t" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="5" id="OnS-4X-Q4V"/>
                             <constraint firstItem="vET-GT-T8t" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="QcW-7V-kNZ"/>
                             <constraint firstItem="c41-43-jko" firstAttribute="top" secondItem="OtF-3z-HMa" secondAttribute="bottom" multiplier="1.3" constant="27" id="Xpk-Ne-Q3S"/>
                             <constraint firstItem="OtF-3z-HMa" firstAttribute="height" secondItem="vET-GT-T8t" secondAttribute="height" id="ZIi-Xr-eYK"/>
