@@ -15,6 +15,8 @@
 		6B5CB9871CE2A79000968921 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B5CB9851CE2A79000968921 /* LaunchScreen.storyboard */; };
 		6B5CB9921CE2A79000968921 /* GeoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5CB9911CE2A79000968921 /* GeoTests.swift */; };
 		6B5CB99D1CE2A79000968921 /* GeoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5CB99C1CE2A79000968921 /* GeoUITests.swift */; };
+		6B5CB9AB1CE2AC8300968921 /* Country.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5CB9AA1CE2AC8300968921 /* Country.swift */; };
+		6B5CB9AD1CE2B0AA00968921 /* Questions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5CB9AC1CE2B0AA00968921 /* Questions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		6B5CB9981CE2A79000968921 /* GeoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GeoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B5CB99C1CE2A79000968921 /* GeoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoUITests.swift; sourceTree = "<group>"; };
 		6B5CB99E1CE2A79000968921 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6B5CB9AA1CE2AC8300968921 /* Country.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
+		6B5CB9AC1CE2B0AA00968921 /* Questions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Questions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 			children = (
 				6B5CB9791CE2A79000968921 /* AppDelegate.swift */,
 				6B5CB97B1CE2A79000968921 /* ViewController.swift */,
+				6B5CB9AA1CE2AC8300968921 /* Country.swift */,
+				6B5CB9AC1CE2B0AA00968921 /* Questions.swift */,
 				6B5CB97D1CE2A79000968921 /* Main.storyboard */,
 				6B5CB9831CE2A79000968921 /* Assets.xcassets */,
 				6B5CB9851CE2A79000968921 /* LaunchScreen.storyboard */,
@@ -262,8 +268,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6B5CB9AB1CE2AC8300968921 /* Country.swift in Sources */,
 				6B5CB97C1CE2A79000968921 /* ViewController.swift in Sources */,
 				6B5CB9821CE2A79000968921 /* Geo.xcdatamodeld in Sources */,
+				6B5CB9AD1CE2B0AA00968921 /* Questions.swift in Sources */,
 				6B5CB97A1CE2A79000968921 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -491,6 +499,7 @@
 				6B5CB9A31CE2A79000968921 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6B5CB9A41CE2A79000968921 /* Build configuration list for PBXNativeTarget "GeoTests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +508,7 @@
 				6B5CB9A61CE2A79000968921 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6B5CB9A71CE2A79000968921 /* Build configuration list for PBXNativeTarget "GeoUITests" */ = {
 			isa = XCConfigurationList;
@@ -507,6 +517,7 @@
 				6B5CB9A91CE2A79000968921 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
