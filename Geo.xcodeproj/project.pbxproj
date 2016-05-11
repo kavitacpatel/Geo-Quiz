@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6B5CB97A1CE2A79000968921 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5CB9791CE2A79000968921 /* AppDelegate.swift */; };
-		6B5CB97C1CE2A79000968921 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5CB97B1CE2A79000968921 /* ViewController.swift */; };
+		6B5CB97C1CE2A79000968921 /* GeoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B5CB97B1CE2A79000968921 /* GeoViewController.swift */; };
 		6B5CB97F1CE2A79000968921 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6B5CB97D1CE2A79000968921 /* Main.storyboard */; };
 		6B5CB9821CE2A79000968921 /* Geo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6B5CB9801CE2A79000968921 /* Geo.xcdatamodeld */; };
 		6B5CB9841CE2A79000968921 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6B5CB9831CE2A79000968921 /* Assets.xcassets */; };
@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		6B5CB9761CE2A79000968921 /* Geo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Geo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B5CB9791CE2A79000968921 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		6B5CB97B1CE2A79000968921 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		6B5CB97B1CE2A79000968921 /* GeoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoViewController.swift; sourceTree = "<group>"; };
 		6B5CB97E1CE2A79000968921 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6B5CB9811CE2A79000968921 /* Geo.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Geo.xcdatamodel; sourceTree = "<group>"; };
 		6B5CB9831CE2A79000968921 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -104,7 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				6B5CB9791CE2A79000968921 /* AppDelegate.swift */,
-				6B5CB97B1CE2A79000968921 /* ViewController.swift */,
+				6B5CB97B1CE2A79000968921 /* GeoViewController.swift */,
 				6B5CB9AA1CE2AC8300968921 /* Country.swift */,
 				6B5CB9AC1CE2B0AA00968921 /* Questions.swift */,
 				6B5CB97D1CE2A79000968921 /* Main.storyboard */,
@@ -269,7 +269,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B5CB9AB1CE2AC8300968921 /* Country.swift in Sources */,
-				6B5CB97C1CE2A79000968921 /* ViewController.swift in Sources */,
+				6B5CB97C1CE2A79000968921 /* GeoViewController.swift in Sources */,
 				6B5CB9821CE2A79000968921 /* Geo.xcdatamodeld in Sources */,
 				6B5CB9AD1CE2B0AA00968921 /* Questions.swift in Sources */,
 				6B5CB97A1CE2A79000968921 /* AppDelegate.swift in Sources */,
