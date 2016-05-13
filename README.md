@@ -6,7 +6,7 @@ After got correct answer it take you to next quiz.
 ---------------------------------------------------------------------------------------------------------------------------
 This iOS App is Universal.
 
-<img width="321" alt="screen shot 2016-05-13 at 10 48 11 am" src="https://cloud.githubusercontent.com/assets/17104174/15251893/83bf0cb6-18f9-11e6-9ac7-f96eb50366d4.png">
+<img width="325" alt="screen shot 2016-05-13 at 10 56 46 am" src="https://cloud.githubusercontent.com/assets/17104174/15251938/bdcc7ea2-18f9-11e6-862d-d8ee2bd490fc.png">
 
 <img width="572" alt="screen shot 2016-05-13 at 10 48 26 am" src="https://cloud.githubusercontent.com/assets/17104174/15251827/3801f446-18f9-11e6-8747-cb3951d74733.png">
 
